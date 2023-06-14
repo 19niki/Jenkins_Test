@@ -12,7 +12,7 @@
         <executions>
     <execution>
       <goals>
-        <goal>jar</goal>
+        <goal>complie</goal>
       </goals>
     </execution>
   </executions>
