@@ -12,7 +12,7 @@
         <executions>
     <execution>
       <goals>
-        <goal>complie</goal>
+        <goal>compile</goal>
       </goals>
     </execution>
   </executions>
