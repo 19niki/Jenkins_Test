@@ -14,7 +14,7 @@ pipeline {
 
         stage('Code Build and run') {
             steps {
-                 bat 'mvn clean install package'
+                 sh 'mvn clean install package'
             }
         }
 		}   
